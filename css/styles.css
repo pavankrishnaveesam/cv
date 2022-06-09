@@ -1,0 +1,118 @@
+body {
+    font-family: 'Merriweather', serif;
+    margin:0;
+    text-align: center;
+    color: #40514E;
+}
+.top-container {
+    background-color: aliceblue;
+    margin-bottom: 0;
+    padding-top: 50px;
+    position: relative;
+    margin-bottom: 20px;
+}
+h1 {
+    margin-top: 0px;
+    font-size:50px;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E ;
+}
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+.sp {
+    text-decoration: underline;
+}
+.topcloud {
+    background-color: none;
+    position: absolute;
+    right: 450px;
+    padding-top: 10px;
+    top: 0;
+}
+.bottomcloud {
+    background-color: none;
+    position: absolute;
+    top: 150px;
+    left: 450px;
+}
+.hcimg {
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.cppimg {
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.btn {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #11999E;
+    padding: 9px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .btn:hover {
+    background: #aab0b3;
+    text-decoration: none;
+  }
+  .middle-container {
+      margin: 100px auto;
+  }
+  .bottom-container{
+      background-color: #66BFBF;
+      padding-bottom: 40px;
+      padding-top: 20px;
+      margin-bottom: 0%;
+  }
+.footer-link{
+    font-family: 'Merriweather', serif;
+    margin: 20px;
+    padding: 20px none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.copy{
+    font-family: 'Merriweather', serif;
+    color: #EAF6F6;
+    font-size: 0.756rem;
+}
+hr{
+    border-style: dotted;
+    height: 0%;
+    width: 4%;
+    border-width: 5px;
+    border-bottom: none;
+    border-color: #d5e3e3;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
